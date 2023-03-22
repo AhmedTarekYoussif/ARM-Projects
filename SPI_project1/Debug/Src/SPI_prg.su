@@ -1,0 +1,6 @@
+../Src/SPI_prg.c:17:6:MSPI_void_initMaster	4	static
+../Src/SPI_prg.c:22:6:MSPI_void_initSlave	4	static
+../Src/SPI_prg.c:27:6:MSPI_void_sendByte	16	static,ignoring_inline_asm
+../Src/SPI_prg.c:49:6:MSPI_void_recieveByte	16	static
+../Src/SPI_prg.c:58:6:MSPI_void_sendString	24	static
+../Src/SPI_prg.c:68:6:MSPI_void_receiveString	24	static

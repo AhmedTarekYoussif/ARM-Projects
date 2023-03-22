@@ -1,0 +1,5 @@
+../Src/UART_prg.c:15:6:MUSART_void_init	4	static
+../Src/UART_prg.c:85:6:MUSART_void_sendByte	16	static
+../Src/UART_prg.c:93:6:MUSART_void_recieveByte	16	static
+../Src/UART_prg.c:99:6:MUSART_void_sendString	24	static
+../Src/UART_prg.c:110:6:MUSART_void_receiveString	24	static
