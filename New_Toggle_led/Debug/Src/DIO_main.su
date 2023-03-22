@@ -1,0 +1,2 @@
+../Src/DIO_main.c:12:13:_delay_ms	24	static,ignoring_inline_asm
+../Src/DIO_main.c:21:5:main	24	static

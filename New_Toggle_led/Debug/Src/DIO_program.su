@@ -1,0 +1,4 @@
+../Src/DIO_program.c:8:6:MDIO_voidSetPinDirection	16	static
+../Src/DIO_program.c:52:6:MDIO_voidSetPinValue	16	static
+../Src/DIO_program.c:79:6:MDIO_voidGetPinValue	16	static
+../Src/DIO_program.c:97:6:MDIO_voidTogPinValue	16	static
