@@ -1,0 +1,3 @@
+../Src/PB_prg.c:16:13:_delay_ms	24	static,ignoring_inline_asm
+../Src/PB_prg.c:24:6:H_PB_Void_init	16	static
+../Src/PB_prg.c:32:6:H_PB_Void_read	24	static
